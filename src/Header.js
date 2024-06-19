@@ -15,7 +15,7 @@ const Header = () => {
                     className="d-inline-block align-top"
                     alt="Logo"
                 />
-                {' eHOME'}
+                {' eHOME_Home'}
             </a>
             <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav ml-auto" style={{ position: 'relative', left:'1100px' }}>
