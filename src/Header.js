@@ -14,7 +14,7 @@ const Header = () => {
                     width="50"
                     height="50"
                     className="d-inline-block align-top"
-                    alt="Log00o"
+                    alt="Logo"
                     style={{borderRadius:'50%'}}
                 />
                 {' eHOME'}
